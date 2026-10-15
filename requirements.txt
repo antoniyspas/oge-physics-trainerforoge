@@ -1,1 +1,1 @@
-streamlits
+streamlit
