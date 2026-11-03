@@ -4,7 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Status](https://img.shields.io/badge/Статус-В_работе-success?style=for-the-badge)
-### 👉 [ОТКРЫТЬ ТРЕНАЖЁР ОНЛАЙН](([(https://oge-physics-trainer-for-oge-jw3dfrc8yxmav8ekcdukbw.streamlit.app/]))
+### 👉 [ОТКРЫТЬ ТРЕНАЖЁР ОНЛАЙН](https://oge-physics-trainer-for-oge-jw3dfrc8yxmav8ekcdukbw.streamlit.app/)
 
 Веб-приложение для подготовки девятиклассников к **ОГЭ по физике**. В отличие от обычных сборников с фиксированными ответами, тренажёр **динамически генерирует новые числовые данные** для каждой задачи, автоматически пересчитывает ответ и формирует подробный пошаговый разбор с формулами.
 
