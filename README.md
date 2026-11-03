@@ -43,9 +43,28 @@
 ## 🚀 Как запустить проект локально на компьютере
 
 1. **Склонируйте репозиторий:**
-   ```bash
-   git clone [https://github.com/antoniyspas/oge-physics-trainerforoge.git](https://github.com/antoniyspas/oge-physics-trainerforoge.git)
-   cd oge-physics-trainerforoge
+
+    git clone https://github.com/antoniyspas/oge-physics-trainerforoge.git
+    cd oge-physics-trainerforoge
+
+2. **Установите библиотеку Streamlit:**
+
+    pip install -r requirements.txt
+
+3. **Запустите веб-приложение:**
+
+    streamlit run proekt.py
+
 ---
+
+## 🛠 Технологический стек
+* **Язык программирования:** Python 3
+* **Фреймворк интерфейса:** Streamlit
+* **Математическая вёрстка:** KaTeX / LaTeX
+* **Стилизация:** Custom CSS3
+* **Хостинг:** Streamlit Community Cloud
+
+---
+
 ## 👨‍💻 Спасский Антоний
 Разработано в рамках индивидуального итогового проекта (9 класс).
