@@ -46,3 +46,6 @@
    ```bash
    git clone [https://github.com/antoniyspas/oge-physics-trainerforoge.git](https://github.com/antoniyspas/oge-physics-trainerforoge.git)
    cd oge-physics-trainerforoge
+---
+## 👨‍💻 Спасский Антоний
+Разработано в рамках индивидуального итогового проекта (9 класс).
